@@ -1,0 +1,4 @@
+requirement_id,product_configuration,legal_reference,assessment_method,standard_edition,evidence_reference,evidence_revision,owner_role,status,next_action_or_reason,review_date
+EX-01,Fictional Assembly A configuration 2,Illustrative guarding requirement,Drawing review and inspection,,Internal report IR-014,Rev B,Quality engineer,Reviewed,,2026-11-12
+EX-02,Fictional Assembly A configuration 2,Illustrative robustness requirement,Test protocol review,,, ,Test coordinator,Pending,Confirm whether the test fixture represents the production configuration,2026-11-29
+EX-03,Fictional Assembly A configuration 2,Illustrative software-related requirement,,,,,Design lead,Not applicable,Example variant contains no software. Review if the design changes.,2026-11-30
